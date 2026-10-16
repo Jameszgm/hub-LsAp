@@ -10,7 +10,7 @@
 
 import os
 
-os.environ["OPENAI_API_KEY"] = "sk-2157e47c970d4ead99d03aa43f4efe2f"
+os.environ["OPENAI_API_KEY"] = "sk-2157e47c97topabu99d03aa43f4efe2f"
 os.environ["OPENAI_BASE_URL"] = "https://api.deepseek.com"
 
 import asyncio
