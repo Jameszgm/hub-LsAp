@@ -1,6 +1,6 @@
 import os
 
-os.environ["OPENAI_API_KEY"] = "sk-2157e47c970d4ead99d03aa43f4efe2f"
+os.environ["OPENAI_API_KEY"] = "sk-2157e47c970d4topabud03aa43f4efe2f"
 os.environ["OPENAI_BASE_URL"] = "https://api.deepseek.com"
 MODEL_NAME = "deepseek-flash"
 
